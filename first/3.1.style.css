@@ -1,0 +1,63 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+.high {
+	height: 15%;
+	padding-left: .2%;
+}
+.top {
+	display: inline-block;
+	width: 31%;
+	height: 100%;
+	margin: .8%;
+}
+.red {
+	background-color: #d3041c;
+}
+.blue {
+	background-color: #4c94e3;
+}
+.black {
+	background-color: #514f4f;
+}
+p {
+	margin: 2%;
+}
+.mLeft {
+	height: 30%;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 19%;
+	margin-left: 1%;
+}
+.mRight {
+	height: 30%;
+	float: left;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	width: 78%;
+	margin-right: 1%;
+}
+.bLeft {
+	float: left;
+	height: 15%;
+	width: 79%;
+	margin-left: 1%
+}
+.bRight {
+	position: relative;
+	float: left;
+	height: 15%;
+	width: 18%;
+	margin-right: 1%
+}
+.bInside {
+	position: absolute;
+	width: 80%;
+	height: 100%;
+	margin-left: 10%;
+	margin-right: 10%
+}
+
